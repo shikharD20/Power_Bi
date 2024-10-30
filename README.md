@@ -1,4 +1,4 @@
-All the files in pdf format are the powerbi projects dashboards that I have created.
+All the files in **pdf** format are the powerbi projects dashboards that I have created.
 
 **S&OP - Sales & Operations dashboard consists of KPI's related to inventory, supplier performance and demand forecast based on historical sales. Used Dax to create new measures
 
